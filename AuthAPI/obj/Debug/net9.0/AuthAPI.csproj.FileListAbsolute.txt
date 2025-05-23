@@ -164,3 +164,4 @@ C:\Users\user\Desktop\notes app backend\AuthAPI\obj\Debug\net9.0\refint\AuthAPI.
 C:\Users\user\Desktop\notes app backend\AuthAPI\obj\Debug\net9.0\AuthAPI.pdb
 C:\Users\user\Desktop\notes app backend\AuthAPI\obj\Debug\net9.0\AuthAPI.genruntimeconfig.cache
 C:\Users\user\Desktop\notes app backend\AuthAPI\obj\Debug\net9.0\ref\AuthAPI.dll
+C:\Users\user\Desktop\notes app backend\AuthAPI\obj\Debug\net9.0\AuthAPI.sourcelink.json
